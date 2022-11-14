@@ -74,14 +74,14 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"        // 选择困难症帮手
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"  // 说抽象话
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chrev"         // 英文字符翻转
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         // 三次元小姐姐
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"       // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru"      // DeepDanbooru二次元图标签识别
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"         // 嘉心糖发病
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/drift_bottle"  // 漂流瓶
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"      // 合成emoji
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic"      // 城市疫情查询
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/event"         // 好友申请群聊邀请事件处理
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/event"         
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/font"          // 渲染任意文字到图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune"       // 运势
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/funny"         // 笑话
@@ -105,27 +105,27 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moegoe"        // 日韩 VITS 模型拟声
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"          // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar" // 摸鱼人日历
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"         // 点歌
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"         
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"    // 本地涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"    // 本地老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"       // 拼音首字母缩写释义工具
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nihongo"       // 日语语法学习
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"         // 铅笔小说网搜索
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"          // nsfw图片识别
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"          
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"       // 浅草寺求签
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife"        // 一群一天一夫一妻制群老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qzone"         // qq空间表白墙
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/realcugan"     // realcugan清晰术
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"        // 投胎
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"       // 在线运行代码
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      // 以图搜图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"         // 叔叔的AI二次元图片放大
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"         // 分数
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"      // 来份涩图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"      
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"       // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"       // 测定
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tarot"         // 抽塔罗牌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tiangou"       // 舔狗日记
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tiangou"       
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tracemoe"       
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation"   // 翻译
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/vitsnyaru"     // vits猫雷
